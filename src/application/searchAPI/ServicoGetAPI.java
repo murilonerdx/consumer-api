@@ -10,7 +10,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.List;
 
-public class ServicoAPI {
+public class ServicoGetAPI {
     static String URL = "https://www.balldontlie.io/api/v1/teams";
     public static List<Endereco> buscarAPI() throws Exception {
         try {
