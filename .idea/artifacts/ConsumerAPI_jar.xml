@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ConsumerAPI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ConsumerAPI_jar</output-path>
+    <root id="archive" name="ConsumerAPI.jar">
+      <element id="module-output" name="ConsumerAPI" />
+    </root>
+  </artifact>
+</component>
